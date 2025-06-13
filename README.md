@@ -1,6 +1,6 @@
  Hi,there 👋
 # 💫 About Me:
-I’m currently working on Full Stack projects, focusing on building scalable and dynamic web applications. My journey in web development started with a love for design and interactivity, which has grown into full-fledged development skills. Alongside my web dev journey, I'm also deeply fascinated by Machine Learning & AI, and I aim to integrate AI capabilities into web applications.<br><br>✨ Always excited to learn, build, and collaborate on innovative web and AI projects! Let’s create something amazing.
+I’m currently working on Full Stack projects, focusing on building scalable and dynamic web applications.Alongside my web dev journey, I'm also deeply fascinated by Machine Learning & AI, and I aim to integrate AI capabilities into web applications.<br><br>✨ Always excited to learn, build, and collaborate on innovative web and AI projects! Les goooo 💃💥
 
 
 ## 🌐 Socials:
