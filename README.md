@@ -1,4 +1,6 @@
- Hi,there 👋
+# Hi,there 👋
+
+# About me
  I am Nelema ,a passionate Full Stack Developer & AI/ML Enthusiast simultaneously. 
 I’m currently working on Full Stack projects, focusing on building scalable and dynamic web applications.Alongside my web dev journey, I'm also deeply fascinated by Machine Learning & AI, and I aim to integrate AI capabilities into web applications.<br><br>✨ Always excited to learn, build, and collaborate on innovative web and AI projects! Les goooo 💃💥
 
