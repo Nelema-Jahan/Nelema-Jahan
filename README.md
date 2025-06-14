@@ -1,4 +1,4 @@
-# Hi,there ! 👋
+# Hey,there ! 👋
 # I am Nelema Jahan🙆‍♀️
 # 🚀Passionate Full Stack Developer| AI/ML Enthusiast.
 
