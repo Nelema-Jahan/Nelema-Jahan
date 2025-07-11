@@ -12,7 +12,7 @@ https://github.com/user-attachments/assets/8f1e74ec-83ab-4355-89ee-8be187c96643
 
  
 
-# 💻 Tech Stack:
+Literally me
 
 
 
