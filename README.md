@@ -3,7 +3,7 @@
 # 🚀Passionate Full Stack Developer| AI/ML Enthusiast.
 
 # About me
-I’m currently working on Full Stack projects, focusing on building scalable and dynamic web applications.Alongside my web dev journey, I'm also deeply fascinated by Machine Learning & AI, and I aim to integrate AI capabilities into web applications.<br><br>✨ Always excited to learn, build, and collaborate on innovative web and AI projects! Les goooo 💃💥
+I’m currently working on Full Stack projects, focusing on building scalable and dynamic web applications.Alongside my web dev journey, I'm also deeply fascinated by Machine Learning & AI, and I aim to integrate AI capabilities into web applications.<br><br>✨ Always excited to learn, build, and collaborate on innovative web and AI projects 💃💥
 
 https://github.com/user-attachments/assets/8f1e74ec-83ab-4355-89ee-8be187c96643
 
