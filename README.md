@@ -1,22 +1,14 @@
 # Hey,there ! 👋
 # I am Nelema Jahan🙆‍♀️
-# 🚀Passionate Full Stack Developer| AI/ML Enthusiast.
 
-# About me
-I’m currently working on Full Stack projects, focusing on building scalable and dynamic web applications.Alongside my development journey, I'm also deeply fascinated by Machine Learning & AI.
-
-https://github.com/user-attachments/assets/8f1e74ec-83ab-4355-89ee-8be187c96643
 
 
 
 
  
 
-Literally me
 
 
-
-https://github.com/user-attachments/assets/c50493c8-a6da-44b7-953a-47863ba4acf3
 
 
 
